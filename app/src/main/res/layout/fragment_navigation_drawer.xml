@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEE"
+    tools:context="eden.com.ruedas.NavigationDrawerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:id="@+id/cointaner"
+        android:layout_width="@dimen/drawer"
+        android:layout_height="@dimen/drawerh"
+        android:orientation="vertical"
+        android:background="@color/primary_dark2"
+        android:padding="22dp">
+    <LinearLayout
+        android:layout_width="@dimen/drawer"
+        android:orientation="horizontal"
+        android:layout_height="0dp"
+        android:paddingRight="40dp"
+        android:layout_weight="5">
+        <ImageView
+            android:id="@+id/fot"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_profile" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"/>
+    </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_weight="3"
+            android:gravity="bottom"
+            android:layout_height="0dp"
+            android:text="Marina Gavenda"
+            android:textColor="@color/abc_primary_text_material_dark"
+            android:textSize="@dimen/titulo"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/cointaner"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:id="@+id/li">
+
+        <ImageView
+            android:id="@+id/listIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/ic_gps_fixed_black_24dp" />
+
+
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/te"
+        android:layout_toRightOf="@id/li"
+        android:paddingTop="20dp"
+        android:background="@android:color/transparent"
+        android:shadowColor="@android:color/transparent"
+        android:clickable="true"
+        android:text="Ver Mapa"
+        android:textSize="@dimen/texto"
+        android:layout_below="@id/cointaner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/drawerlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+</RelativeLayout>

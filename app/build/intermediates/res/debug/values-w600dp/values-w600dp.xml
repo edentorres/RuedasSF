@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w600dp/values-w600dp.xml -->
+    <eat-comment/>
+    <dimen name="abc_search_view_text_min_width">192dip</dimen>
+    <!-- From: file:/Users/Eden/Ruedas2/app/src/main/res/values-w600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="drawer">500dp</dimen>
+    <dimen name="drawerh">340dp</dimen>
+    <dimen name="texto">22dp</dimen>
+    <dimen name="titulo">30dp</dimen>
+    <!-- From: file:/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w600dp/values-w600dp.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">5</integer>
+</resources>

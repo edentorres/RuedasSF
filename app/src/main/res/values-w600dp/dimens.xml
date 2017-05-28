@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawer">500dp</dimen>
+    <dimen name="drawerh">340dp</dimen>
+    <dimen name="titulo">30dp</dimen>
+    <dimen name="texto">22dp</dimen>
+</resources>

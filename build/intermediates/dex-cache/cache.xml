@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-f8fc24fa64d2fb92db0ab55ae54dbecad2d61276.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.2.2/817d56b6f7c8af1fc90b5dbb78fb1125180fc3f3/httpmime-4.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="817d56b6f7c8af1fc90b5dbb78fb1125180fc3f3">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/httpmime-4.2.2-1dca1666c1ef5ebbb1747cbcb344ffe7bc091125.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.github.mrengineer13/snackbar/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cc35903814b2bf137fa6f1df823ed51cdce74977">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-bb94f26d29ddac2a92a532ce76cc23a6526a3da8.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-74a80bbff5b530e929ee868de8f6deae3d1c1ca1.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-66373260fef87efc1109220b4f81be21aa16f7c6.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-0729cd1b0d41006f2a62b47762f7c8dff19286b5.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-1a54479489b7b5f77ae7299cd2a080aab87030ca.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-d1afbc8a7fde85ca27d1007f449a9d4c66c01193.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-c0d58fc6caba4975d3a7ecfeb2fce177e1d98e70.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-2d032d4790eadfa78bb253f7a89b64f015dd4442.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-9134f88eb97d875bc6d47683ef9ba54c6d454b10.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-44831419089f0088a04eb56161c85a059a598d62.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-5ea8c9c75e3aa6e15b9c2be079e4398ff0fcb9ca.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4b681a6084ef53d2825520fc77fcaddde351f64">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-15575a454123711711c8438ecb3baf8cec347c3e.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-97bf97d78ea86b89fc51490e422227e3e95ee4e6.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-0b8995a36c0b4e59055c457d682e626162d481b9.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-2650495dedd8e175215d1aa4894f98be82f86af7.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-1e7db6333df36506d0063ceb075f4744e29346c2.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-06cf300c8587ac7404c54aae12bbda075cdafdfe.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-6831fe8fa4c40d176f1830eb45cd26c545a624c9.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-015d9cff224edfe495c5cf7366c5e42ff30280c3.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-ab562f0232fe66d8ec9eee9958c62d5ece7eb7f0.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.2/b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd/httpcore-4.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/httpcore-4.2.2-e46bcf82d0841a20ebb65f58d04d895c71de43d7.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-6609358bd692b92a75a26bfcf197e09f9590f357.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-dbcabe12a610bc9a6de56e94e2e781d9d003fc71.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-8fe1a700cbdc0dc02af40845ac9505f2d526e24a.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-ec0aa5c40809f0470b067c3d7a2a78aeb496b7ed.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-7a1cbb733714dcc0b4ab282c87f89153485e42ca.jar" />
+    </item>
+    <item
+        jar="/Users/Eden/Ruedas2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/Eden/Ruedas2/app/build/intermediates/pre-dexed/release/classes-a3230b21955df742e6c16131bf138d11eac21ec7.jar" />
+    </item>
+
+</items>

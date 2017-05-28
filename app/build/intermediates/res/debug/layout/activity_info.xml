@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#EEE"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="eden.com.ruedas.InfoActivity">
+
+    <!--<Button
+        android:id="@+id/btndenunciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#93C355"
+        android:text="Siguiente"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />-->
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Tipo de Discapacidad:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/accent"
+        android:textStyle="bold" />
+    <Spinner
+        android:id="@+id/sptipo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/sptipo"
+        android:text="Tipo de Problema:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/accent"
+        android:textStyle="bold" />
+
+    <!--<Spinner
+        android:id="@+id/spproblema"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView3" />-->
+    <TextView
+        android:id="@+id/txtsepuedepasar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView3"
+        android:paddingLeft="10dp"
+        android:text="Se puede pasar:"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"/>
+    <Switch
+        android:id="@+id/swpasar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+
+        android:layout_below="@+id/textView3" />
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/swpasar"
+        android:paddingBottom="10dp" />
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btndenunciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        fab:fab_labelsPosition="left"/>
+
+
+</RelativeLayout>
+<!-- From: file:/Users/Eden/Ruedas2/app/src/main/res/layout/activity_info.xml -->

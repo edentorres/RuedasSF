@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ruedas Sin Fronteras</string>
+    <string name="vermapa">Ver Mapa</string>
+    <string name="reportar">Reportar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
